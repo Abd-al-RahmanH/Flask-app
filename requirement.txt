@@ -1,0 +1,6 @@
+flask
+keras
+numpy
+requests
+werkzeug
+pillow
